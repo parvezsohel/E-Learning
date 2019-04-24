@@ -1,0 +1,75 @@
+.topbar{
+    background-image: url('../images/ee.jpg');
+	background-size: 100% 110%;
+	width: 100%;
+	height: 16vh;
+}
+.menu{
+	width: 100%;
+	height: 100px;
+	background-color:rgba(0, 0, 0, 0.5);
+}
+.leftmenu {
+	padding-left: 70px;
+	float: left;
+	padding-top:25px;
+}
+.rightmenu{
+	width:70%;
+	height: 100px;
+	float: right;
+}
+.rightmenu ul{
+	margin-left: 200px;
+}
+.rightmenu ul li {
+	font-family: 'Montserrat', sans-serif;
+	display: inline-block;
+	list-style: none;
+	font-size: 15px;
+	color:white;
+	font-weight: bold;
+	line-height: 100px;
+	margin-left: 10px;
+	text-transform: uppercase;
+}
+.nav-link{
+	color:white;
+	text-decoration: none;
+}
+.nav-link:hover{
+	color:orange;
+}
+
+.about-elearn{
+    margin-top: 50px;
+}
+.container h2{
+    text-align: center;
+    padding-bottom:10px;
+    color: green;
+    font-size: 40px;
+    width: 400px;
+    margin: auto;
+    border-bottom: 1px dotted black;
+    margin-bottom: 50px;
+}
+.img-1{
+    width:500px;
+    height:450px;
+}
+.img-2{
+    width:250px;
+    height: 300px;
+}
+.bdr{
+    border-left: 1px solid gray
+}
+.about-footer{
+    margin-top: 70px;
+    background: #EEF3F7;
+}
+.ftr{
+   padding-top: 20px;
+   text-align: center;
+}
